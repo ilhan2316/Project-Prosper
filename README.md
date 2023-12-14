@@ -30,7 +30,7 @@ Certainly! Here's a GitHub project description for your StockSnap project, incor
 - **Real-time Communication:** Socket.io
 - **Containerization:** Docker
 
-  --BARRING RELEASE OF WEB APP--
+  ## BARRING RELEASE OF WEB APP
 
 ## Getting Started
 
