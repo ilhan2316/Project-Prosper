@@ -1,4 +1,4 @@
-# StockSnap
+# Project Prosper
 StockSnap is a comprehensive stock portfolio tracking web application that seamlessly combines Python, Go, and a modern tech stack to deliver real-time insights into your investments.
 Certainly! Here's a GitHub project description for your StockSnap project, incorporating Python, Go, and other technologies:
 
@@ -38,5 +38,5 @@ Certainly! Here's a GitHub project description for your StockSnap project, incor
 2. Follow the setup instructions in the respective frontend and backend directories.
 3. Run the application and start managing your stock portfolio with ease!
 
-
+# PROJECT STILL IN DEVELOPMENT
 
